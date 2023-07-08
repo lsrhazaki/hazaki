@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/hazaki/.config/leftwm/themes/current/backgrounds/919777.jpg' 
