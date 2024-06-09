@@ -1,0 +1,2 @@
+run this in terminal after doing the mounting in hardware-configuration.nix
+sudo chown -R hazaki /mnt/Data
