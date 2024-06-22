@@ -4,7 +4,7 @@
     flavour = "macchiato"; # One of `latte`, `frappe`, `macchiato`, or `mocha`
   in {
     enable = true;
-    enableZshIntegration = true;
+    enableFishIntegration = true;
     settings =
       # Catppuccin
       {
